@@ -66,8 +66,12 @@ body {
     color: #f9faf8;
     padding: 10px 30px;
     font-weight: 900;
-    border: none;
+    border-color: #3882f6;
     margin-top: 15px;
+}
+
+button:hover {
+    background-color: #699ff5;
 }
 
 
@@ -189,6 +193,11 @@ ul {
     padding: 10px 30px;
     font-weight: 900;
 }
+
+button:hover {
+    background-color: #699ff5;
+}
+
  .bd, .onee {
     color: #f9faf8;
     font-weight: bold;
